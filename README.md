@@ -7,8 +7,8 @@ No me cabe duda que cualqueria de estos libros me ha enriquecido profundamente, 
 
 ## Sociedad y civilización
 
-**El shock del futuro**, Alvin Toffler  
-Un libro que te ayudará a entender cómo el cambio constante afecta nuestras vidas, desde la tecnología hasta las estructuras sociales. Es un análisis poderoso que anticipa el impacto del avance acelerado en la humanidad.
+**El shock del futuro, Alvin Toffler  
+Un libro que te ayudará a entender cómo el cambio constante afecta nuestras vidas, desde la tecnología hasta las estructuras sociales. Es un análisis poderoso que anticipa el impacto del avance acelerado en la humanidad.**
 
 **La tercera ola**, Alvin Toffler  
 Toffler nos lleva en un viaje por las tres grandes olas que han moldeado la civilización: la agrícola, la industrial y la actual, la información. Un texto fundamental para entender cómo estamos construyendo el futuro.
@@ -38,8 +38,8 @@ Una mirada desgarradora a la vida de los soldados durante la Primera Guerra Mund
 **Yo, Claudio**, Robert Graves  
 A través de los ojos del emperador Claudio, descubrimos los entresijos de la política romana. Es una novela fascinante que muestra cómo la historia se construye tanto con intrigas palaciegas como con decisiones cruciales.
 
-**Los viajes de Marco Polo**, Rustichello de Pisa y Marco Polo  
-Un relato de aventuras y descubrimientos que te transportará a un mundo lejano, lleno de maravillas y desafíos. A través de los ojos de Marco Polo, podrás explorar la diversidad cultural y económica de la antigüedad.
+**Los viajes de Marco Polo, Rustichello de Pisa y Marco Polo  
+Un relato de aventuras y descubrimientos que te transportará a un mundo lejano, lleno de maravillas y desafíos. A través de los ojos de Marco Polo, podrás explorar la diversidad cultural y económica de la antigüedad.**
 
 **Shogun**, James Clavell  
 Una obra envolvente que te permitirá sumergirte en el Japón feudal a través de la historia de un navegante occidental atrapado en una tierra desconocida. Clavell logra captar la fascinante cultura japonesa y sus complejidades.
@@ -63,8 +63,8 @@ Una crítica a las estructuras morales establecidas, donde Nietzsche invita a pe
 **La República**, Platón  
 Un diálogo que ha influido en la filosofía política durante siglos. Platón te hará pensar en lo que realmente significa justicia, cómo debe estructurarse una sociedad, y qué es el conocimiento.
 
-**El discurso del método**, René Descartes  
-Una obra fundacional de la filosofía moderna que enseña la importancia de la duda metódica y el razonamiento lógico. Descartes te desafía a examinar tus propios procesos de pensamiento y a buscar la verdad con rigor.
+**El discurso del método, René Descartes  
+Una obra fundacional de la filosofía moderna que enseña la importancia de la duda metódica y el razonamiento lógico. Descartes te desafía a examinar tus propios procesos de pensamiento y a buscar la verdad con rigor.**
 
 ---
 
@@ -79,8 +79,8 @@ Un mundo donde la tecnología controla las emociones y la sociedad parece perfec
 **Dune**, Frank Herbert  
 Una epopeya de ciencia ficción que aborda temas ecológicos, políticos y religiosos a través de una trama compleja y personajes inolvidables. Es una historia sobre el poder y el destino en un universo alienígena.
 
-**El jugador**, Iain M. Banks  
-Una novela que explora el impacto de los juegos y las estrategias en la política intergaláctica. Banks combina entretenimiento con profundas reflexiones sobre la naturaleza de los imperios y la cultura.
+**El jugador, Iain M. Banks  
+Una novela que explora el impacto de los juegos y las estrategias en la política intergaláctica. Banks combina entretenimiento con profundas reflexiones sobre la naturaleza de los imperios y la cultura.**
 
 **El mundo anillo**, Larry Niven  
 Un relato de aventuras que combina física y ciencia ficción de manera brillante. Niven crea un universo fascinante que desafía la imaginación y te sumerge en un viaje por mundos asombrosos.
@@ -107,8 +107,8 @@ Un viaje introspectivo en el que la magia está profundamente ligada a la identi
 **La rueda del tiempo**, Robert Jordan  
 Una saga monumental que abarca varias eras y personajes, donde la lucha contra las fuerzas oscuras se desarrolla en un mundo lleno de magia y profecías. Una lectura esencial para los amantes de la fantasía épica.
 
-**Malaz: El libro de los caídos**, Steven Erikson  
-Una de las series más complejas y emocionantes de la fantasía moderna. Erikson te desafía a seguir una trama llena de dioses, imperios en guerra y personajes inolvidables que te llevarán a un viaje sin igual.
+**Malaz: El libro de los caídos, Steven Erikson  
+Una de las series más complejas y emocionantes de la fantasía moderna. Erikson te desafía a seguir una trama llena de dioses, imperios en guerra y personajes inolvidables que te llevarán a un viaje sin igual.**
 
 ---
 
@@ -120,8 +120,8 @@ Hawking nos lleva a través de los misterios del tiempo y el espacio de manera c
 **Cosmos**, Carl Sagan  
 Sagan combina ciencia y poesía para inspirarnos a explorar las estrellas. Un libro que no solo explica el cosmos, sino que también nos invita a maravillarnos por nuestra conexión con el universo.
 
-**El universo desbocado** , Paul Davies  
-Una fascinante introducción a la teorías que rigen el principio y el fin del universo.
+**El universo desbocado, Paul Davies  
+Una fascinante introducción a la teorías que rigen el principio y el fin del universo.**
 
 **Los dragones del Edén**, Carl Sagan  
 Sagan nos lleva en un viaje para explorar la evolución de la inteligencia humana y la relación entre el cerebro y la conciencia. Un libro que mezcla ciencia, antropología y especulación filosófica.
