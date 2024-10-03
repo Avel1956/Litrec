@@ -1,6 +1,6 @@
 # Litrec
 Estos son mis libros recomendados. 
-Son los libros en los cuales pienso cuando me pregunto a mi mismo cuales son las obreas que me han causado mayor impacto. 
+Son los libros en los cuales pienso cuando me pregunto a mi mismo cuales son las obras que me han causado mayor impacto. 
 No me cabe duda que cualqueria de estos libros me ha enriquecido profundamente, esa es toda mi declaración al respecto.
 
 # Cultura general
